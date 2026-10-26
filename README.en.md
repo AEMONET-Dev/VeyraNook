@@ -4,7 +4,7 @@
 
 [简体中文](README.md) · English · [Downloads & release notes](https://github.com/AEMONET-Dev/VeyraNook/releases) · [Report an issue](https://github.com/AEMONET-Dev/VeyraNook/issues)
 
-![Veyra Nook running on a real foldable in tent mode](docs/images/01-tent.webp)
+![Veyra Nook running on a real foldable in tent mode](docs/images/en/01-tent.webp)
 
 Nook is an Android foldable StandBy app **developed by AEMONET**. Fold your phone into a tent and place it on a desk or bedside table. The cover display shows a clock, photos, widgets or Now Playing, while the inner display provides adjustable ambient light.
 
@@ -30,30 +30,30 @@ Available media actions depend on the player. Output selection opens Android's s
 
 <table>
 <tr>
-<td width="50%"><img src="docs/images/02-photo.webp" alt="Real-device photo StandBy with green inner light"></td>
-<td width="50%"><img src="docs/images/03-world.webp" alt="Real-device world clock"></td>
+<td width="50%"><img src="docs/images/en/02-photo.webp" alt="Real-device photo StandBy with green inner light"></td>
+<td width="50%"><img src="docs/images/en/03-world.webp" alt="Real-device world clock"></td>
 </tr>
 </table>
 
-All three device photos were supplied by the user. Photo StandBy uses images you explicitly choose; the world clock lets you choose a city and time zone.
+All three device photos were supplied by the user; their display times have been edited to **10:21**, matching the app icon. Photo StandBy uses images you explicitly choose; the world clock lets you choose a city and time zone.
 
-![Digital, analog, floating and calendar views captured from the APK](docs/images/04-faces.webp)
+![Digital, analog, floating and calendar views captured from the APK](docs/images/en/04-faces.webp)
 
 Edit appearance and light directly from the clock. Large digits support animated changes and gentle floating; widgets can be reordered by dragging. A camera-hole guide lets you mark the physical cutout and hide only nearby overlapping content, preserving the overall clock size and position.
 
 ## Music and light
 
-![Now Playing with artwork, progress, playback, volume and output controls](docs/images/05-media.webp)
+![Now Playing with artwork, progress, playback, volume and output controls](docs/images/en/05-media.webp)
 
 Nook connects to your active player's media session. There is no need to import songs, and opening Now Playing does not start playback. Collapse it to return to your previous StandBy page.
 
 **Audio rhythm analyzes system playback, not the microphone.** Only instantaneous volume intensity is analyzed; recordings are not saved. Some players, protected content and operating systems restrict capture, so rhythm response is not guaranteed for every source.
 
-![In-clock appearance editor and breathing-light settings](docs/images/06-custom.webp)
+![In-clock appearance editor and breathing-light settings](docs/images/en/06-custom.webp)
 
 The inner display forms a continuous perimeter halo that fades smoothly to black in the center. Battery mode uses colors for charge ranges. A full battery gets slow breathing; recognized fast charging below full uses an inward-moving, fading halo. Fast-charge detection depends on the device's reported state and cannot identify every charging protocol.
 
-> Clock, media and editor posters use actual APK screenshots captured on an isolated emulator. The media track and artwork are demo assets. They are interface captures, not concept UI renders.
+> Clock, media and editor posters use actual APK screenshots captured on an isolated emulator. The media track and artwork are demo assets. They are interface captures, not concept UI renders. Clock captures use 10:21; the English editor poster uses the real compact-text setting (70%).
 
 ## Getting started
 
