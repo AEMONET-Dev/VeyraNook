@@ -1,9 +1,9 @@
 # Veyra Nook
 
-给折叠屏一个安静的角落。 / A quiet corner for your foldable.
+折叠屏待机、内屏光效与媒体控制。 / Foldable StandBy, ambient light and media controls.
 
-由 **AEMONET** 独立设计、开发与维护。
-Independently designed, developed and maintained by **AEMONET**.
+**AEMONET** 开发。
+Developed by **AEMONET**.
 
 ## 下载与更新 / Downloads & updates
 
@@ -30,5 +30,5 @@ This version is free. Optional WeChat or Alipay support inside the app does not 
 完整源码将在资源来源与许可整理完成后另行说明；本仓库当前仅提供发布渠道说明。
 Source publication will be addressed after asset provenance and license review. This repository currently contains release-channel documentation only.
 
-独立项目，与 Apple、小米、Shizuku 及其他权限工具无隶属关系。
-An independent project, not affiliated with Apple, Xiaomi, Shizuku or other privilege tools.
+与 Apple、小米、Shizuku 及其他权限工具无隶属关系。
+Not affiliated with Apple, Xiaomi, Shizuku or other privilege tools.
