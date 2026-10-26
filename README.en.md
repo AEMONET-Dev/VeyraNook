@@ -8,7 +8,7 @@
 
 Nook is an Android foldable StandBy app **developed by AEMONET**. Fold your phone into a tent and place it on a desk or bedside table. The cover display shows a clock, photos, widgets or Now Playing, while the inner display provides adjustable ambient light.
 
-**Currently in testing; no public APK is available yet.** Future builds will be published in this repository's Releases. Photos and screenshots below show development builds; consult each release's notes for its exact capabilities.
+**Current public beta: [1.9.0-beta4](https://github.com/AEMONET-Dev/VeyraNook/releases/tag/v1.9.0-beta4).** Install over beta3. This update adds actual Root checks, a KSU launcher and automatic rechecking on return. Photos and screenshots below show development builds; consult each release's notes for its exact capabilities.
 
 ## What it does
 
@@ -59,7 +59,8 @@ The inner display forms a continuous perimeter halo that fades smoothly to black
 
 Once a public build is available:
 
-1. Download and install the APK from [Releases](https://github.com/AEMONET-Dev/VeyraNook/releases).
+1. Download and install the APK from the [beta4 release page](https://github.com/AEMONET-Dev/VeyraNook/releases/tag/v1.9.0-beta4).
+   For Root mode, check access under Automation & Lighting → Access backend. If denied, open KSU and allow Nook in Superuser; returning to Nook checks access again.
 2. Choose **Root or Shizuku** and grant permissions for the features you want.
 3. Choose your clock, widgets and light, then enable automatic linkage.
 4. Keep the phone charging and place it in a tent posture, **inner display facing the table and cover display facing out**. Wait for automatic entry.
@@ -94,7 +95,7 @@ These measures **mitigate OLED aging; they cannot guarantee freedom from burn-in
 
 ## Downloads, updates and project status
 
-This is the official introduction, release and feedback repository. **There are currently no public releases, and the complete source has not been published.** Source publication will be addressed after asset provenance and licensing review. A custom clock-face community is planned, not available today.
+This is the official introduction, release and feedback repository. **Public beta APKs are available; the complete source has not been published.** Source publication will be addressed after asset provenance and licensing review. A custom clock-face community is planned, not available today.
 
 The in-app updater checks stable releases by default, with optional beta releases. It verifies size, SHA-256, package identity, version and signing certificate before asking you to confirm Android installation. It does not silently install through Root. Before installation, Nook pauses its automatic entry and waits for its display state to restore.
 
